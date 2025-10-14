@@ -3650,6 +3650,46 @@
 		(color 0 0 0 0)
 		(uuid "f313a2c2-4131-4cd3-a795-e0d0634fb746")
 	)
+	(no_connect
+		(at 227.33 92.71)
+		(uuid "1017192a-e839-4f68-a4ca-4dbc273058e5")
+	)
+	(no_connect
+		(at 177.8 85.09)
+		(uuid "1d627694-0db4-480d-ac68-707b8c09709f")
+	)
+	(no_connect
+		(at 227.33 96.52)
+		(uuid "1da88d76-201d-45cb-9aac-cc81bd82ced9")
+	)
+	(no_connect
+		(at 227.33 88.9)
+		(uuid "2327f457-e12a-4dc4-bcbf-ff3916207519")
+	)
+	(no_connect
+		(at 177.8 88.9)
+		(uuid "305f5056-19da-4548-ba03-dae7e7c9989c")
+	)
+	(no_connect
+		(at 227.33 100.33)
+		(uuid "584362aa-3f12-4181-8641-c0e1e0f2ceab")
+	)
+	(no_connect
+		(at 177.8 92.71)
+		(uuid "77361d60-b66f-40da-b974-1739c0ac44e9")
+	)
+	(no_connect
+		(at 177.8 100.33)
+		(uuid "967455d8-b4b6-4442-9a17-50b09730f14e")
+	)
+	(no_connect
+		(at 227.33 77.47)
+		(uuid "9a715021-2503-422e-b451-42ab6f1dbc3e")
+	)
+	(no_connect
+		(at 177.8 96.52)
+		(uuid "9aad674f-e38c-45b1-9b2a-ce2d5d259353")
+	)
 	(wire
 		(pts
 			(xy 219.71 132.08) (xy 228.6 132.08)
@@ -6785,7 +6825,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3"
 			(at 188.9252 144.78 0)
 			(effects
 				(font
@@ -7120,7 +7160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P5.00mm"
 			(at 182.5752 144.78 0)
 			(effects
 				(font
@@ -7655,7 +7695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
 			(at 229.5652 144.78 0)
 			(effects
 				(font
