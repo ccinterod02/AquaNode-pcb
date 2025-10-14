@@ -1,0 +1,13 @@
+Aviso: Corrección del ancho restringida. El valor de la corrección del ancho debe encontrarse en el rango de [0,000001 mm; 0,199999 mm] para las reglas de diseño actuales.
+Trazado a '/home/ccinterod02/repos/aquanode-pcb/ejercicio-1/ejercicio-1-F_Cu.gbr'.
+Trazado a '/home/ccinterod02/repos/aquanode-pcb/ejercicio-1/ejercicio-1-B_Cu.gbr'.
+Trazado a '/home/ccinterod02/repos/aquanode-pcb/ejercicio-1/ejercicio-1-F_Paste.gbr'.
+Trazado a '/home/ccinterod02/repos/aquanode-pcb/ejercicio-1/ejercicio-1-B_Paste.gbr'.
+Trazado a '/home/ccinterod02/repos/aquanode-pcb/ejercicio-1/ejercicio-1-F_Silkscreen.gbr'.
+Trazado a '/home/ccinterod02/repos/aquanode-pcb/ejercicio-1/ejercicio-1-B_Silkscreen.gbr'.
+Trazado a '/home/ccinterod02/repos/aquanode-pcb/ejercicio-1/ejercicio-1-F_Mask.gbr'.
+Trazado a '/home/ccinterod02/repos/aquanode-pcb/ejercicio-1/ejercicio-1-B_Mask.gbr'.
+Trazado a '/home/ccinterod02/repos/aquanode-pcb/ejercicio-1/ejercicio-1-Edge_Cuts.gbr'.
+Archivo de trabajo Gerber '/home/ccinterod02/repos/aquanode-pcb/ejercicio-1/ejercicio-1-job.gbrjob' creado.
+Info: Listo.
+Info: Listo.

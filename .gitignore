@@ -1,0 +1,22 @@
+# Archivos temporales
+*.bak
+*.tmp
+*.kicad_prl
+
+# Configuración local de usuario
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+fp-info-cache
+sym-lib-table-bak
+
+# Salidas generadas
+*.net
+*.xml
+*.csv
+*.bom
+*.gbr
+*.drl
+*.zip
+*.pdf
+
